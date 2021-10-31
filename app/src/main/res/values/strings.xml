@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KawaApp</string>
+    <string name="yourchallenge">YourChallenge</string>
+
+    <string name="name">%1$s. %2$s %3$s</string>
+    <string name="gender">%1$s . %2$s</string>
+</resources>
