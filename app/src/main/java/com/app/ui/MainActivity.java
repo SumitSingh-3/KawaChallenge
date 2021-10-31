@@ -46,6 +46,7 @@ public class MainActivity extends AppCompatActivity implements AdapterListener, 
     }
 
     private void initUI() {
+        binding.menu.menuMain.setVisibility(View.GONE);
         adapterList = new AdapterList(this);
         adapterCarousel = new AdapterCarousel();
         adapterMenu = new AdapterMenu(this);
